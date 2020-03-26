@@ -8,7 +8,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.png">
 
-  <img alt="Repository size" "https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.png">
+  <img alt="Repository size" >
   
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
