@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" "https://github.com/RobsonGap/devradar/blob/master/imagens/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://github.com/Rocketseat/semana-omnistack-10/blob/397b89a4631e5f36756367847e9acbf53402ba54/.github/devradar.png">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
   
