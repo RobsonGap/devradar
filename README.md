@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="https://github.com/RobsonGap/devradar/blob/master/imagens/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src="https://github.com/RobsonGap/devradar/raw/master/imagens/devradar.svg"/>
 </h1>
 
 <h4 align="center">
