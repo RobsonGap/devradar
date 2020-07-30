@@ -28,9 +28,9 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src="https://raw.githubusercontent.com/RobsonGap/devradar/master/imagens/devradar.png">
-</p>
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src="https://raw.githubusercontent.com/RobsonGap/devradar/master/imagens/devradar.png"/>
+</h1>
 
 ## :rocket: Tecnologias
 
