@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://github.com/RobsonGap/devradar/blob/master/imagens/devradar.png" width="100%">
+  <img alt="Frontend" src="https://raw.githubusercontent.com/RobsonGap/devradar/master/imagens/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
