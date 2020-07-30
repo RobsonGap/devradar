@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+  <a href="https://raw.githubusercontent.com/RobsonGap/devradar/master/imagens/devradar.png">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
   </a>
 
