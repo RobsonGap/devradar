@@ -13,9 +13,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
-    <img alt="Repository issues" src="https://github.com/RobsonGap/devradar/raw/master/imagens/devradar.png">
-  </a>
+ 
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
